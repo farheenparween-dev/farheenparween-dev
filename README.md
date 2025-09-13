@@ -12,7 +12,7 @@
 
 * 💻 Languages: HTML, CSS, JavaScript (learning)
 * 🎨 Design: Responsive Web Design, UI/UX Basics
-* 🔧 Tools: VS Code, Git, GitHub
+* 🔧 Tools: VS Code, wordpress , Git, GitHub
 * 🌐 Web: GitHub Pages Deployment
 
 ---
